@@ -54,6 +54,35 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🔍 [Content Analyzer](https://github.com/alialkubaisi/content-analyzer)
+🎓 *Bachelor Thesis Project (with [Simon Amberg](https://github.com/someone))*  
+A full-stack web app that automatically evaluates websites for accessibility (WCAG) and writing style using web scraping, NLP, and modular microservices.
+
+**Tech:** React · Node.js · Express · TypeScript · MongoDB · Docker · Huggingface · Axe Core
+
+Key Features:
+- WCAG accessibility checks (Axe Core)
+- Writing analysis via AI (Huggingface)
+- Modular microservices (scraper, accessibility, language, API)
+- Docker deployment support
+
+---
+
+### 🎨 [FXtend](https://github.com/alialkubaisi/fxtend)
+🚀 *JavaFX Component Library – Open Source*  
+FXtend enhances JavaFX with custom, improved UI components like `SecurePasswordField`, `AutoCompleteField`, and `ChatView`.
+
+**Tech:** Java 17 · JavaFX 22 · Maven
+
+Key Features:
+- Password strength checking
+- Autocomplete & chat UIs
+- Published on Maven Central
+
+---
+
 ## 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAlKubaisi&show_icons=true&theme=dark&hide_border=false&count_private=true" />
