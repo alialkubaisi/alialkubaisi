@@ -91,6 +91,20 @@ Key Features:
 
 ---
 
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliAlKubaisi&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliAlKubaisi&theme=gruvbox&column=4&margin-w=15&margin-h=15&no-bg=true&rank=-C" />
+</p>
+
+---
+
 ## 📬 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/ali-al-kubaisi-257498177/">
