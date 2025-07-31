@@ -104,8 +104,9 @@ Key Features:
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AliAlKubaisi/count.svg" />
+  <img src="https://hits.sh/github.com/AliAlKubaisi.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=blue" />
 </div>
+
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
